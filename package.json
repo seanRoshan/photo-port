@@ -1,6 +1,6 @@
 {
-  "homepage": "http://lernantino.github.io/photo-port",
-  "name": "portfolio",
+  "homepage": "http://seanroshan.github.io/photo-port",
+  "name": "photo-port",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
